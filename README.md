@@ -10,5 +10,5 @@ To know more about microservices, refer to the [Microservices] (http://www.fiora
 ####Pre-built Microservices
 To know more about pre-built microservices, refer to the [Pre-built Microservices] (http://107.170.222.119/documentation/display/DOC/Pre-built+Microservices) section.
 
-####Custum Microservices
+####Custom Microservices
 To ceate Custom Microservices, refer the [Extending] (http://www.fiorano.com/documentation/display/PUB/Extending) section.
