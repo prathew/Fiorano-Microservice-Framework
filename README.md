@@ -8,7 +8,11 @@ The framework also provides samples which demonstrate general usage patterns. So
 To know more about microservices, refer to the [Microservices] (http://www.fiorano.com/documentation/display/PUB/Microservices) section.
 
 ####Pre-built Microservices
-To know more about pre-built microservices, refer to the [Pre-built Microservices] (http://107.170.222.119/documentation/display/DOC/Pre-built+Microservices) section.
+* [Cache] (http://fiorano.com/documentation/display/PUB/Cache)
+* [CBR] (http://fiorano.com/documentation/display/PUB/CBR)
+* [xslt] (http://fiorano.com/documentation/display/PUB/Xslt)
+
+Documenattion for the entire list of miscroservices in the Enterprise Edition is present at http://www.fiorano.com/documentation/display/pub/Pre-built+Microservices
 
 ####Custom Microservices
 To ceate Custom Microservices, refer the [Extending] (http://www.fiorano.com/documentation/display/PUB/Extending) section.
